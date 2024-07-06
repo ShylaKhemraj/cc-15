@@ -1,0 +1,10 @@
+.education {
+    margin-bottom: 20px;
+  }
+  .education-entry {
+    border: 5px solid #a95b9b;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    background-color: #72429b;
+  }  
